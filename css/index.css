@@ -190,12 +190,12 @@ h2 {
 }
 .header p {
   font-size: 3rem;
-  margin: 2% 0;
+  margin: 1% 0;
 }
 @media screen and (max-width: 500px) {
   .header p {
     font-size: 1.6rem;
-    margin: 25px 0;
+    margin: 8px 0;
   }
 }
 .header button {
@@ -203,12 +203,12 @@ h2 {
   color: white;
   background-color: #353535;
   padding: 0.9%;
-  margin-top: 50px;
+  margin-top: 15px;
   border-radius: 8px;
 }
 @media screen and (max-width: 500px) {
   .header button {
-    margin-top: 20px;
+    margin-top: 0px;
   }
 }
 .info {
